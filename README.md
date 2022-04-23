@@ -19,7 +19,7 @@ HPL Using:
 3. Copying the Path.
 4. Launch a terminal as root and download the repository:
 git clone https://github.com/hacker-sp4ce/flinux
-cd hpl
+cd flinux
 python3 hpl.py
 5. The program will ask you for the path to the hash file. On Linux, the hash file is located on the path "/etc/shadow", so in the program you need to go to the /etc/shadow system partition.
 6. The program will ask you to enter the full name of the user you want to reset the password from.
@@ -38,8 +38,8 @@ Grub Hack Using:
 3. Copying the Path.
 4. Launch a terminal as root and download the repository:
 git clone https://github.com/hacker-sp4ce/flinux
-cd hpl
-python3 hpl.py
+cd flinux
+python3 grubhack.py
 5. The program will ask you for the path to the hash file. On Linux, the hash file is located on the path "/boot/grub/grub.cfg", so in the program you need to go to the /etc/shadow system partition.
 6. If the file is found, it will display the credentials.
 7. Confirm the deletion of the hash by pressing Enter.
