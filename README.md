@@ -1,6 +1,14 @@
 # flinux
 Hack Password in Linux and hack hack password from grub.
 
+
+
+DISCLAIMER:
+The author is not responsible for your actions and does not develop to offenses.
+All information is provided for informational purposes only.
+
+
+
 This is a universal set of tools for exploiting Linux and Grub vulnerabilities.
 
 
