@@ -18,7 +18,7 @@ HPL Using:
 2. Open the disk partition with the system from which you want to crack the password.
 3. Copying the Path.
 4. Launch a terminal as root and download the repository:
-git clone https://github.com/hacker-sp4ce/hpl/
+git clone https://github.com/hacker-sp4ce/flinux
 cd hpl
 python3 hpl.py
 5. The program will ask you for the path to the hash file. On Linux, the hash file is located on the path "/etc/shadow", so in the program you need to go to the /etc/shadow system partition.
@@ -37,7 +37,7 @@ Grub Hack Using:
 2. Open the disk partition with the system from which you want to crack the password.
 3. Copying the Path.
 4. Launch a terminal as root and download the repository:
-git clone https://github.com/hacker-sp4ce/hpl/
+git clone https://github.com/hacker-sp4ce/flinux
 cd hpl
 python3 hpl.py
 5. The program will ask you for the path to the hash file. On Linux, the hash file is located on the path "/boot/grub/grub.cfg", so in the program you need to go to the /etc/shadow system partition.
